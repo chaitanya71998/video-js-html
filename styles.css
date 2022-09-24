@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+  margin: 0px;
+}
+
+.sticky-header {
+  background-color: white;
+  width: 100%;
+  width: auto;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 9%;
+  padding-right: 10%;
+}
+
+.ccbp-logo {
+  height: 52px;
+  width: 150px;
+}
+
+.video-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(245, 247, 250);
+}
